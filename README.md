@@ -1,1 +1,1 @@
-# php_qsoft_internship
+Стажировка на тему "Основы PHP и Bitrix"
