@@ -1,0 +1,1 @@
+<h1 id="success" style="color: white; background-color: green; text-align: center">Вы успешно авторизовались!</h1>
